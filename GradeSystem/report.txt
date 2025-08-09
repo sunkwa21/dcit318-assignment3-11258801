@@ -1,0 +1,5 @@
+Akua Afla (ID: 101): Score = 84, Grade = A
+Akosua Sunkwa (ID: 102): Score = 75, Grade = B
+Kukua Manso (ID: 103): Score = 66, Grade = C
+Kuma Danso (ID: 104): Score = 59, Grade = D
+Safia Abu (ID: 105): Score = 45, Grade = F
