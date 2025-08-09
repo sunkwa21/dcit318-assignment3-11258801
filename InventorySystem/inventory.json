@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-09T17:32:16.5724104+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 50,
+    "DateAdded": "2025-08-09T17:32:16.5755423+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 30,
+    "DateAdded": "2025-08-09T17:32:16.5755435+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Monitor",
+    "Quantity": 15,
+    "DateAdded": "2025-08-09T17:32:16.5755437+00:00"
+  }
+]
